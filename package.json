@@ -46,7 +46,7 @@
     "enzyme-adapter-react-16": "^1.15.1",
     "eslint-watch": "^6.0.1",
     "jasmine-expect": "^4.0.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react-test-renderer": "^16.12.0",
     "typescript": "^3.7.3"
   },
